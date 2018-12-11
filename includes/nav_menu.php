@@ -59,7 +59,7 @@
                 
           ?>
           
-          <a class="dropdown-item" href="#"><i class="fas fa-user-astronaut"></i> Register</a>
+          <a class="dropdown-item" href="register.php"><i class="fas fa-user-astronaut"></i> Register</a>
           <a class="dropdown-item" href="login.php"><i class="fas fa-sign-in-alt"></i> Login</a>
           
           <?php

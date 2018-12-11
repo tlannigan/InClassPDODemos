@@ -7,6 +7,10 @@
             <file>file:/C:/xampp/htdocs/InClassPDODemos/includes/config.php</file>
             <file>file:/C:/xampp/htdocs/InClassPDODemos/templates/login.php</file>
             <file>file:/C:/xampp/htdocs/InClassPDODemos/login.php</file>
+            <file>file:/C:/xampp/htdocs/InClassPDODemos/article.php</file>
+            <file>file:/C:/xampp/htdocs/InClassPDODemos/register.php</file>
+            <file>file:/C:/xampp/htdocs/InClassPDODemos/templates/register.php</file>
+            <file>file:/C:/xampp/htdocs/InClassPDODemos/templates/membersonly.php</file>
         </group>
     </open-files>
 </project-private>
